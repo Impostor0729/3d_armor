@@ -1,0 +1,19 @@
+# textdomain: 3d_armor
+
+
+### api.lua ###
+
+3d_armor: Detached armor inventory is nil @1=3d_armor: A leválasztott páncélok készlete nulla @1
+3d_armor: Player name is nil @1=3d_armor: A játékos neve nulla @1
+3d_armor: Player reference is nil @1=3d_armor: A játékos referencia nulla @1
+
+### init.lua ###
+
+3d_armor: Failed to initialize player=3d_armor: Nem sikerült inicializálni a játékost
+Fire=Tűz
+Heal=Gyógyítás
+Level=Szint
+Radiation=Sugár
+Your @1 got destroyed!=A @1-ed megsemmisült!
+Your @1 is almost broken!=A @1-ed majdnem törött!
+[3d_armor] Fire Nodes disabled=[3d_armor] A tűzcsomópontok letiltva
