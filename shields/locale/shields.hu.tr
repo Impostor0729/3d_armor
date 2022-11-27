@@ -1,0 +1,17 @@
+# textdomain: shields
+
+
+### init.lua ###
+
+Admin Shield=Renszergazda Páncél
+Bronze Shield=Bronzpáncél
+Cactus Shield=Kaktuszpáncél
+Crystal Shield=Kristálypáncél
+Nether Shield=Alvilágipáncél
+Diamond Shield=Gyémántpáncél
+Enhanced Cactus Shield=Továbbfejlesztett Kaktuszpáncél
+Enhanced Wood Shield=Továbbfejlesztett Fapáncél
+Gold Shield=Aranypáncél
+Mithril Shield=Mithrilpáncél
+Steel Shield=Acélpáncél
+Wooden Shield=Fapáncél
