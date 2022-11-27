@@ -1,0 +1,12 @@
+# textdomain: 3d_armor_ui
+
+
+### init.lua ###
+
+3d Armor=3d Páncél
+Armor=Páncél
+Armor not initialized!=A páncél nincs inicializálva!
+Fire=Tűz
+Heal=Egészség
+Level=Szint
+Radiation=Sugár
